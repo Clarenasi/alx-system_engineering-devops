@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmod -hR a+x
+sudo chmod -hR 111
