@@ -1,2 +1,2 @@
 #!/bin/bash
-set /a "BREATH^LOVE"
+echo $((BREATH**LOVE))

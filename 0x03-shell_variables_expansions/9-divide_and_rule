@@ -1,2 +1,2 @@
 #!/bin/bash
-set /a "POWER/DIVIDE"
+echo $((POWER/DIVIDE))
